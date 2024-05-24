@@ -5,17 +5,12 @@
 
 #Hardware Required
 
-  -Arduino UNO
-  -Ultrasonic Sensor HC-SRO4
-  -SG90 Micro servo motor
-  -Jumper Wires
+   Arduino UNO,Ultrasonic Sensor HC-SRO4,SG90 Micro servo motor,Jumper Wires
 
 
 #Agenda
 
-  -Measuring distance has been one of the prominent thing in measuring system.
-  -Getting an insight of what object has been in distance of what distance.
-  -Taking decision in accordance of what distance has been recorded and measured.
+   Measuring distance has been one of the prominent thing in measuring system,Getting an insight of what object has been in distance of what distance,Taking decision in accordance of what distance has been recorded and measured.
 
 
 #Circuit Diagram
